@@ -1,0 +1,29 @@
+{
+  "name": "oasis",
+  "description": "layout",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "oasis",
+    "landing"
+  ],
+  "authors": [
+    "Alexey Pogorelov"
+  ],
+  "license": "no license",
+  "homepage": "https://github.com/AlexeyPogorelov/oasis",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "jquery.browser": "#master",
+    "smoothscroll-for-websites": "#master",
+    "bootstrap": "~3.3.7"
+  }
+}
